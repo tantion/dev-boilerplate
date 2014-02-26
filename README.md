@@ -1,0 +1,4 @@
+jshintrc
+========
+
+jshint configuration
