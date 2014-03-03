@@ -1,10 +1,9 @@
-
 # dev-boilerplate
 
 sample configuration for developer
 
 ## Features
 
-- [.jshintrc](/tantion/dev-boilerplate/tree/master/jshint)
+- [.jshintrc](//github.com/tantion/dev-boilerplate/tree/master/jshint)
 
 
