@@ -5,6 +5,6 @@ sample configuration for developer
 
 ## Features
 
-- jshintrc
+- [.jshintrc](/tantion/dev-boilerplate/tree/master/jshint)
 
 
