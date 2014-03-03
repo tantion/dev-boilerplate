@@ -1,16 +1,10 @@
-# JSHint Configuration, Strict Edition
 
-[source](https://gist.github.com/haschek/2595796)
+# dev-boilerplate
 
-[jshint doc](http://jshint.com/docs/)
+sample configuration for developer
 
-Added
-```javascript
-    "es3"           : true,     // Allow EcmaScript 3 syntax. e.g. Extra comma.
-```
+## Features
 
-Inline Configuration
-```
-/* jshint undef: true, unused: true */
-/* global MY_GLOBAL */
-```
+- jshintrc
+
+
