@@ -32,10 +32,14 @@ put the code on the head of the file.
 
 - switch split window
 
-    `<ctrl>wh` // jump to left
-    `<ctrl>wj` // jump to down
-    `<ctrl>wk` // jump to up
-    `<ctrl>wl` // jump to right
+    * jump to left
+        `<ctrl>wh`
+    * jump to down
+        `<ctrl>wj`
+    * jump to up
+        `<ctrl>wk`
+    * jump to right
+        `<ctrl>wl`
 
 - replace >tab to spaces
 
