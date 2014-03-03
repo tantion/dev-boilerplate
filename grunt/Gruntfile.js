@@ -8,13 +8,11 @@ module.exports = function(grunt) {
       debug: {
         options: {
           port: 9000,
-          base: 'app/'
-        }
-      },
-      dist: {
-        options: {
-          port: 9001,
-          base: 'dist/'
+          hostname: 'localhost',
+          keepalive: true,
+          livereload: true,
+          open: true,
+          base: '.'
         }
       }
     }
@@ -24,6 +22,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-connect');
 
   // Default task(s).
-  grunt.registerTask('default', ['connect:dist']);
+  grunt.registerTask('default', ['connect:debug']);
 
 };
